@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Environment / IDE
+.vscode/
+.idea/
+
+# Local PDF files
+*.pdf
+!samples/sample_bc23.pdf
+!samples/sample_bc40.pdf
